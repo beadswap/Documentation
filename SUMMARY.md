@@ -1,27 +1,34 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
-* [FAQ](faq.md)
+* [BeadSwap Intro](README.md)
+* [Get Started](get-started/README.md)
+  * [Create a Wallet](get-started/create-a-wallet.md)
+  * [Get BEP-20 Tokens](get-started/get-bep-20-tokens.md)
+  * [Connect your Wallet to BeadSwap](get-started/connect-your-wallet-to-beadswap.md)
+  * [How to Trade](get-started/how-to-trade.md)
+  * [How to add/remove Liquidity](get-started/how-to-add-remove-liquidity.md)
+* [Click Here for Help](click-here-for-help/README.md)
+  * [General FAQ](click-here-for-help/general-faq.md)
+  * [Troubleshooting Errors](click-here-for-help/troubleshooting-errors.md)
+* [Contact Us](contact-us/README.md)
+  * [Business Partnership](contact-us/business-partnership.md)
+  * [Customer Support](contact-us/customer-support.md)
+  * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
 
 ## Core Products
 
 * [Exchange](core-products/pancakeswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
-* [Farms](core-products/farms.md)
-* [Voting](core-products/voting.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+* [BEAD Basics](tokenomics/untitled.md)
 
 ## Guides
 
 * [Binance Academy Guide](guides/binance-academy-guide.md)
-* [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [How to use MetaMask on PancakeSwap](guides/untitled.md)
+* [How to use MetaMask on Beadswap](guides/untitled.md)
 
 ## Community / Social
 
